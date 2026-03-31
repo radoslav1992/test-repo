@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <ref_no>1045A</ref_no>
+        <type>Тристаен апартамент</type>
+        <transaction>Продажба</transaction>
+        <price currency="EUR">185000</price>
+        <location>
+            <city>София</city>
+            <neighborhood>Лозенец</neighborhood>
+            <address>ул. Златен рог</address>
+        </location>
+        <features>
+            <area>95</area>
+            <floor>3</floor>
+            <total_floors>6</total_floors>
+            <construction>Тухла</construction>
+            <year>2018</year>
+        </features>
+        <description>Отличен, светъл тристаен апартамент в сърцето на кв. Лозенец. Състои се от хол с кухненски бокс, две спални, баня с тоалетна и тераса. Напълно обзаведен.</description>
+        <images>
+            <image_url>https://example.com/images/1045a_1.jpg</image_url>
+            <image_url>https://example.com/images/1045a_2.jpg</image_url>
+        </images>
+        <agent>
+            <name>Иван Иванов</name>
+            <phone>+359888123456</phone>
+            <email>ivan@testagency.bg</email>
+        </agent>
+    </property>
+    <property>
+        <ref_no>2099B</ref_no>
+        <type>Двустаен апартамент</type>
+        <transaction>Наем</transaction>
+        <price currency="EUR">650</price>
+        <location>
+            <city>София</city>
+            <neighborhood>Младост 1</neighborhood>
+            <address>бул. Александър Малинов</address>
+        </location>
+        <features>
+            <area>60</area>
+            <floor>5</floor>
+            <total_floors>8</total_floors>
+            <construction>ЕПК</construction>
+            <year>1995</year>
+        </features>
+        <description>Уютен двустаен апартамент под наем, непосредствено до метростанция Младост 1. След основен ремонт.</description>
+        <images>
+            <image_url>https://example.com/images/2099b_1.jpg</image_url>
+        </images>
+        <agent>
+            <name>Мария Петрова</name>
+            <phone>+359888654321</phone>
+            <email>maria@testagency.bg</email>
+        </agent>
+    </property>
+</properties>
